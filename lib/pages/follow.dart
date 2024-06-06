@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_3d_nike_shop/utils/colors.dart';
-import 'package:flutter_3d_nike_shop/utils/helper.dart';
+import 'package:flutter_doughnut_animation/utils/colors.dart';
+import 'package:flutter_doughnut_animation/utils/helper.dart';
 import 'package:flutter_svg/svg.dart';
 
 class Link {

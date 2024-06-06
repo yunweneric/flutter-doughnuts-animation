@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_3d_nike_shop/utils/colors.dart';
+import 'package:flutter_doughnut_animation/utils/colors.dart';
 
 class CartItem {
   final int index;

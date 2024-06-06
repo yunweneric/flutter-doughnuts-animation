@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_3d_nike_shop/pages/home.dart';
+import 'package:flutter_doughnut_animation/pages/home.dart';
 
 void main() {
   runApp(const MyApp());

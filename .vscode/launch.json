@@ -5,18 +5,18 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "flutter_3d_nike_shop",
+      "name": "flutter_doughnut_animation",
       "request": "launch",
       "type": "dart"
     },
     {
-      "name": "flutter_3d_nike_shop (profile mode)",
+      "name": "flutter_doughnut_animation (profile mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile"
     },
     {
-      "name": "flutter_3d_nike_shop (release mode)",
+      "name": "flutter_doughnut_animation (release mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "release"
