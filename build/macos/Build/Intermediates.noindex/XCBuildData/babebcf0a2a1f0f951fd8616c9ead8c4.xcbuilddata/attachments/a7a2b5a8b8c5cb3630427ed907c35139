@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/url_launcher_macos-master.dia",
+    "emit-module-dependencies" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/url_launcher_macos-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/url_launcher_macos-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/url_launcher_macos-master.swiftdeps"
+  },
+  "/Users/yunwen/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.0/macos/url_launcher_macos/Sources/url_launcher_macos/messages.g.swift" : {
+    "const-values" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g.swiftconstvalues",
+    "dependencies" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g.d",
+    "diagnostics" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g.o",
+    "llvm-bc" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g.bc",
+    "object" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g.o",
+    "swift-dependencies" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g.swiftdeps",
+    "swiftmodule" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/messages.g~partial.swiftmodule"
+  },
+  "/Users/yunwen/.pub-cache/hosted/pub.dev/url_launcher_macos-3.2.0/macos/url_launcher_macos/Sources/url_launcher_macos/UrlLauncherPlugin.swift" : {
+    "const-values" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin.swiftconstvalues",
+    "dependencies" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin.d",
+    "diagnostics" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin.o",
+    "llvm-bc" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin.bc",
+    "object" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin.o",
+    "swift-dependencies" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin.swiftdeps",
+    "swiftmodule" : "/Users/yunwen/Documents/code/mobile/tutorials/flutter_doughnuts/build/macos/Build/Intermediates.noindex/Pods.build/Debug/url_launcher_macos.build/Objects-normal/x86_64/UrlLauncherPlugin~partial.swiftmodule"
+  }
+}

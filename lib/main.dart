@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_doughnut_animation/pages/home.dart';
+import 'package:flutter_doughnut_animation/utils/colors.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Doughnuts',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         textTheme: const TextTheme(
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
           displayMedium: TextStyle(fontSize: 20, fontWeight: FontWeight.w700),
           displaySmall: TextStyle(fontSize: 18, fontWeight: FontWeight.w700),
         ),
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: ColorScheme.fromSeed(seedColor: AppColors.yellow),
         useMaterial3: true,
       ),
       home: const HomePage(),
