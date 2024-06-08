@@ -11,13 +11,14 @@ SizedBox rotatedItems({
   required int activeIndex,
   required List<Doughnut> items,
 }) {
+  double angle = 0.00;
   return SizedBox(
     width: Sizing.width(context),
     height: Sizing.height(context),
     child: Row(
       children: [
         Container(
-          transform: Matrix4.identity()..translate(-700.0),
+          transform: Matrix4.identity()..translate(-Sizing.width(context) * 0.5),
           child: AnimatedBuilder(
               animation: controller,
               builder: (context, a) {

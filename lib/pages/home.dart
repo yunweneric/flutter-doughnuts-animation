@@ -3,7 +3,6 @@ import 'package:flutter_doughnut_animation/pages/components/animated_bg.dart';
 import 'package:flutter_doughnut_animation/pages/components/clipper.dart';
 import 'package:flutter_doughnut_animation/pages/components/rotated_items.dart';
 import 'package:flutter_doughnut_animation/pages/components/toggle_items.dart';
-import 'package:flutter_doughnut_animation/pages/follow.dart';
 import 'package:flutter_doughnut_animation/pages/models/doughnut.dart';
 import 'package:flutter_doughnut_animation/utils/colors.dart';
 
@@ -18,7 +17,8 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
   late AnimationController _controller;
   late Animation<double> _animatedAngle;
 
-  double rotationFactor = 1.58;
+  // double rotationFactor = 1.58;
+  double rotationFactor = 1.52;
   int activeIndex = 0;
   final duration = const Duration(milliseconds: 500);
   @override
