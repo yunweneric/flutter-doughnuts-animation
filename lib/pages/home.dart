@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
   late Animation<double> _animatedAngle;
 
   // double rotationFactor = 1.58;
-  double rotationFactor = 1.52;
+  double rotationFactor = 1.58;
   int activeIndex = 0;
   final duration = const Duration(milliseconds: 500);
   @override
