@@ -7,9 +7,9 @@ flutter pub get
 flutter run
 ```
 
-- [Figma File ](<https://www.figma.com/design/yog6rgpR041fByY9ygaVCE/Nike-Landing-Page-Concept-(Community)?node-id=1-46&t=CdDmMrtrHm4SESwf-0>)
+- [Figma File ](<https://www.figma.com/design/W2y6dqHqRVb4irEfpBAldx/Donut---3D-Carousel-Figma-Animation-Prototyping-Website-UI-Design-(Community)?m=auto&t=7CgmZqvZKIvoiwu1-6>)
 
-- [Demo Link](https://flutternikeshop.netlify.app/)
+- [Demo Link](https://flutterdoughnuts.netlify.app/)
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -25,26 +25,29 @@ samples, guidance on mobile development, and a full API reference.
 <table>
   <tr>
     <td>
-      <a href="https://github.com/yunweneric/flutter_openUI/tree/authUI02">
-        <img src="./assets/images/showcase_0.png" alt="Image 1" width="1000"/>
+      <a href="#">
+        <img src="./assets/showcase/showcase_3.png" alt="Image 1" width="1000"/>
       </a>
     </td>
      <td>
-      <a href="https://github.com/yunweneric/flutter_openUI/tree/authUI01">
-        <img src="./assets/images/showcase_1.png" alt="Image 1" width="1000"/>
+      <a href="#">
+        <img src="./assets/showcase/showcase_4.png" alt="Image 1" width="1000"/>
       </a>
     </td>
    
    
   </tr>
      <td>
-      <a href="https://github.com/yunweneric/flutter_openUI/tree/Onboarding_01">
-        <img src="./assets/images/showcase_2.png" alt="Image 1" width="1000"/>
+      <a href="#">
+        <img src="./assets/showcase/showcase_5.png" alt="Image 1" width="1000"/>
       </a>
     </td>
-  <td> </td>
-    
-   
+     <td>
+      <a href="#">
+        <img src="./assets/showcase/showcase_6.png" alt="Image 1" width="1000"/>
+      </a>
+    </td>
+
   </tr>
 
 </table>
