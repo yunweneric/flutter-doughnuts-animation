@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_doughnut_animation/utils/colors.dart';
 import 'package:flutter_doughnut_animation/utils/helper.dart';
+import 'package:flutter_doughnut_animation/utils/sizing.dart';
 import 'package:flutter_svg/svg.dart';
 
 class Link {
@@ -27,10 +28,10 @@ class Follow extends StatelessWidget {
       margin: const EdgeInsets.only(right: 15),
       child: TextButton.icon(
         style: TextButton.styleFrom(
-          // fixedSize: const Size(120, 35),
           alignment: Alignment.centerLeft,
+          backgroundColor: AppColors.white,
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(5),
+            borderRadius: BorderRadius.circular(20),
           ),
         ),
         onPressed: () => Helper.navigate(link.url),
@@ -43,9 +44,11 @@ class Follow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      width: Sizing.width(context) * 0.25,
+      height: 40,
       margin: EdgeInsets.only(top: 20),
       decoration: BoxDecoration(
-        color: AppColors.white,
+        // color: AppColors.white,
         borderRadius: BorderRadius.circular(5),
       ),
       child: Center(
